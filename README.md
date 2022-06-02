@@ -1,6 +1,8 @@
 ## Oiiii, seja bem-vindos ao meu perfil do Github!
 
-- 🔭 Sou desenvolvedora Front-end Jr em busca do meu primeiro emprego.
+## Sobre mim:
+
+> Comecei a estudar programação em Agosto de 2021 e em Março de 2022 comecei a transição de carreira, foi quando decidir que queria e faria de tudo pra ser uma desenvolvedora. Me dedico todos os dias para ser uma boa profissional e ter um diferencial. Sempre soube que para ser boa programadora eu teria que saber resolver problemas e é isso que tenho feito nos meus etudos. Aqui você pode acompanhar cada passo meu, alguns não pois estão privado haha. 
 
 <div>
   <a href="https://github.com/luanafront">

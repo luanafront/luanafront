@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-> Comecei a estudar programação em Agosto de 2021 e em Março de 2022 comecei a transição de carreira, foi quando decidi que queria e faria de tudo para ser uma desenvolvedora. Sempre soube que para ser boa programadora eu teria que saber resolver problemas e é isso que tenho feito nos meus estudos. Aqui você pode acompanhar cada passo meu, alguns não pois estão privado haha. 
+> Comecei a estudar programação em Agosto de 2021 e em Março de 2022 comecei a transição de carreira, foi quando decidi que queria e faria de tudo para ser uma desenvolvedora. Sempre soube que para ser boa programadora eu teria que saber resolver problemas e é isso que tenho feito nos meus estudos. Comecei o estagio como front end e desde então tenho aprendido muito.
 
 <div>
   <a href="https://github.com/luanafront">

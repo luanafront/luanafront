@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-> Comecei a estudar programação em Agosto de 2021 e em Março de 2022 comecei a transição de carreira, foi quando decidi que queria e faria de tudo para ser uma desenvolvedora. Sempre soube que para ser boa programadora eu teria que saber resolver problemas e é isso que tenho feito nos meus estudos. Comecei o estagio como front end e desde então tenho aprendido muito.
+> Sou Desenvolvedora FrontEnd apaixonada por tecnologia e inovação. Em 2021, decidi fazer transição de carreira e mergulhar no mundo da programação. Desde que comecei a programar, gostei muito de criar soluções criativas e funcionais usando apenas linhas de código. Através dessa jornada, descobri uma nova maneira de enxergar o mundo e resolver problemas. 
 
 <div>
   <a href="https://github.com/luanafront">

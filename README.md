@@ -1,5 +1,6 @@
 # 💫 About Me:
-Me chamo Luana, sou desenvolvedora frontend junior, e atualmente sou desenvolvedora da Wardie. <br>Fiz uma transição de carreira, mudando totalmente de área, do modo de resolver problemas e até mesmo minha forma de pensar em determinadas situações. 
+Meu nome é Luana e sou uma desenvolvedora frontend júnior na Wardie.<br>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.<br>
 
 
 ## 🌐 Socials:

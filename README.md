@@ -1,6 +1,6 @@
 # 💫 About Me:
-Meu nome é Luana e sou uma desenvolvedora frontend júnior na Wardie.<br>
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.<br>
+Meu nome é Luana e sou Desenvolvedora Frontend Júnior na Wardie.<br>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (06/2022 a 12/2024).<br>
 
 
 ## 🌐 Socials:
